@@ -26,13 +26,13 @@ Make sure all the dependencies used in the notebook are installed in the local m
       * Contact<img src="./img/contact.JPG"  width="50%">
       * Month<img src="./img/month.JPG"  width="50%">
       * Day of week<img src="./img/day.JPG"  width="50%">
-      * Out come<img src="./img/joboutcome.JPG"  width="50%">
+      * Out come<img src="./img/outcome.JPG"  width="50%">
       * Target label<img src="./img/Y.JPG"  width="50%">
 
   ### Normalize the Data
   ### Accessing the missing values
   ###### Correlation
-Correlation heatmap![alt text](https://github.com/vamshigunji183/Data-Science-portfolio/blob/master/Bank-Marketing-Campaign-Analysis/img/correlation-heatmap.JPG "Correlation heatmap")
+Correlation heatmap<img src="./img/correlation-heatmap.JPG"  width="50%">
 
 
 ### Train and validate
